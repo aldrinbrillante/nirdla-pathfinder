@@ -2,7 +2,7 @@
 
 Pathfinder allows users to create obstacles and visualize two famous algorithms, Dijkstra's and A\*, find the shortest path between a start and end node.
 
-## [Live Link](https://github.com/aldrinbrillante/nirdla-pathfinder)
+## [Live Link](https://aldrinbrillante.github.io/pathfinder/)
 
 ## Technologies Used
 
